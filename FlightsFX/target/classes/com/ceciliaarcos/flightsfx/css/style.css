@@ -1,0 +1,21 @@
+.root{
+    -fx-background-color: aliceblue;
+}
+Label {
+   -fx-text-fill: dimgray;
+}
+
+Button{
+-fx-background-color: black;
+-fx-text-fill: white;
+}
+
+#btnDelete{
+-fx-background-color: red;
+-fx-text-fill: white;
+}
+
+.text-field:error {
+  -fx-text-box-border: red ;
+  -fx-focus-color: red ;
+}
